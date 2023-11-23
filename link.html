@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Face Recognition</title>
+    <style>
+        *{
+  font-family: 'Poppins', sans-serif;
+  }
+
+     body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(90deg, #051922  80%, #F28123 20%);
+            /* Replace the above gradient colors with your desired colors */
+            font-family: Arial, sans-serif;
+        }
+ 
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            background: linear-gradient();
+        }
+
+        
+
+
+        .button {
+            padding: 12px 24px;
+            font-size: 18px;
+            background-color:  #F28123;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+
+        }
+
+        .button:hover {
+            background-color: #051922;
+            color:#F28123;
+        }
+
+        .form-container {
+            display: flex;
+            justify-content: center;
+            
+            flex-direction: column;
+            margin-top: 20px;
+            
+            height: 300px;
+            padding:20px;
+            width:350px;
+            background: #fff;
+            box-shadow: 0 5px 10px rgba(0,0,0,.1);
+        }
+
+        .container input {
+           
+            padding:10px 15px;
+            font-size: 15px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-family: sans-serif;
+            
+            border:1px solid #ccc;
+            text-transform: none;
+            width:300px;
+        }
+
+        
+
+        .container span {
+  font-size: 16px;
+  margin-bottom: 5px;
+  font-family:Georgia, 'Times New Roman', Times, serif/* Apply the desired font family */
+
+         }
+         .ftitle{
+            text-align: center;
+         }
+         .image
+{
+  position: absolute;
+  top:0;
+  left:0;
+  width:200px;
+  height:auto;
+}
+         
+         
+         </style>
+
+</head>
+
+<body>
+    <!--<img src="asset/logo.png" class="image">-->
+    <div class="container">
+        
+        <div class="form-container">
+            <h3 class="ftitle">Face Verification </h3>
+        
+       
+            <span> Username:</span>
+            <input type="text" id="usernameInput" placeholder="Enter your username" required>
+            <span> Email:</span>
+            <input type="email" id="emailInput" placeholder="Enter your email" required> 
+            <button id="recognizeButton" class="button" type="submit">Send Link</button>      
+        </div>
+        
+    </div>
+
+    <script src="./link.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,250 @@
+./aligned_img\Preetha\downFace1.png 181 49 340 239
+./aligned_img\Preetha\downFace10.png 165 40 328 233
+./aligned_img\Preetha\downFace11.png 165 40 326 232
+./aligned_img\Preetha\downFace12.png 166 40 326 230
+./aligned_img\Preetha\downFace13.png 167 39 325 229
+./aligned_img\Preetha\downFace14.png 164 38 326 230
+./aligned_img\Preetha\downFace15.png 164 38 326 230
+./aligned_img\Preetha\downFace16.png 162 37 325 229
+./aligned_img\Preetha\downFace17.png 163 39 325 230
+./aligned_img\Preetha\downFace18.png 163 39 324 227
+./aligned_img\Preetha\downFace19.png 167 41 328 228
+./aligned_img\Preetha\downFace2.png 171 49 325 225
+./aligned_img\Preetha\downFace20.png 160 39 325 222
+./aligned_img\Preetha\downFace21.png 159 41 324 223
+./aligned_img\Preetha\downFace22.png 162 43 325 223
+./aligned_img\Preetha\downFace23.png 163 40 322 229
+./aligned_img\Preetha\downFace24.png 165 40 324 231
+./aligned_img\Preetha\downFace25.png 164 37 328 229
+./aligned_img\Preetha\downFace3.png 171 38 334 226
+./aligned_img\Preetha\downFace4.png 169 35 334 219
+./aligned_img\Preetha\downFace5.png 160 33 323 214
+./aligned_img\Preetha\downFace6.png 171 37 333 222
+./aligned_img\Preetha\downFace7.png 169 37 327 222
+./aligned_img\Preetha\downFace8.png 171 42 327 227
+./aligned_img\Preetha\downFace9.png 163 39 325 232
+./aligned_img\Preetha\forwardFace1.png 167 76 336 279
+./aligned_img\Preetha\forwardFace10.png 187 103 339 287
+./aligned_img\Preetha\forwardFace11.png 188 100 340 283
+./aligned_img\Preetha\forwardFace12.png 184 96 338 284
+./aligned_img\Preetha\forwardFace13.png 170 93 329 280
+./aligned_img\Preetha\forwardFace14.png 163 90 327 282
+./aligned_img\Preetha\forwardFace15.png 164 86 329 280
+./aligned_img\Preetha\forwardFace16.png 163 87 331 282
+./aligned_img\Preetha\forwardFace17.png 164 87 331 283
+./aligned_img\Preetha\forwardFace18.png 166 88 330 283
+./aligned_img\Preetha\forwardFace19.png 166 90 330 281
+./aligned_img\Preetha\forwardFace2.png 163 74 339 285
+./aligned_img\Preetha\forwardFace20.png 167 91 327 284
+./aligned_img\Preetha\forwardFace21.png 163 88 332 283
+./aligned_img\Preetha\forwardFace22.png 166 89 333 283
+./aligned_img\Preetha\forwardFace23.png 181 88 341 287
+./aligned_img\Preetha\forwardFace24.png 187 90 344 285
+./aligned_img\Preetha\forwardFace25.png 177 89 346 286
+./aligned_img\Preetha\forwardFace3.png 161 75 336 286
+./aligned_img\Preetha\forwardFace4.png 213 5 387 226
+./aligned_img\Preetha\forwardFace5.png 609 186 634 215
+./aligned_img\Preetha\forwardFace6.png 183 85 338 268
+./aligned_img\Preetha\forwardFace7.png 183 92 334 275
+./aligned_img\Preetha\forwardFace8.png 185 98 336 280
+./aligned_img\Preetha\forwardFace9.png 189 104 341 287
+./aligned_img\Preetha\leftFace1.png 138 83 297 280
+./aligned_img\Preetha\leftFace10.png 132 47 274 229
+./aligned_img\Preetha\leftFace11.png 136 41 285 225
+./aligned_img\Preetha\leftFace12.png 137 40 284 225
+./aligned_img\Preetha\leftFace13.png 135 39 283 220
+./aligned_img\Preetha\leftFace14.png 131 39 290 227
+./aligned_img\Preetha\leftFace15.png 129 46 286 230
+./aligned_img\Preetha\leftFace16.png 140 49 283 225
+./aligned_img\Preetha\leftFace17.png 132 44 285 230
+./aligned_img\Preetha\leftFace18.png 131 44 275 220
+./aligned_img\Preetha\leftFace19.png 137 37 288 223
+./aligned_img\Preetha\leftFace2.png 132 77 295 282
+./aligned_img\Preetha\leftFace20.png 138 36 290 222
+./aligned_img\Preetha\leftFace21.png 140 37 287 221
+./aligned_img\Preetha\leftFace22.png 136 41 282 225
+./aligned_img\Preetha\leftFace23.png 140 40 284 222
+./aligned_img\Preetha\leftFace24.png 137 48 285 227
+./aligned_img\Preetha\leftFace25.png 142 49 288 230
+./aligned_img\Preetha\leftFace3.png 132 64 296 273
+./aligned_img\Preetha\leftFace4.png 133 66 293 258
+./aligned_img\Preetha\leftFace5.png 133 58 283 255
+./aligned_img\Preetha\leftFace6.png 135 58 283 253
+./aligned_img\Preetha\leftFace7.png 133 53 283 246
+./aligned_img\Preetha\leftFace8.png 132 53 278 243
+./aligned_img\Preetha\leftFace9.png 132 50 277 235
+./aligned_img\Preetha\rightFace1.png 189 51 349 244
+./aligned_img\Preetha\rightFace10.png 233 64 378 248
+./aligned_img\Preetha\rightFace11.png 233 59 376 239
+./aligned_img\Preetha\rightFace12.png 236 65 380 244
+./aligned_img\Preetha\rightFace13.png 234 63 381 247
+./aligned_img\Preetha\rightFace14.png 233 62 382 250
+./aligned_img\Preetha\rightFace15.png 233 66 377 247
+./aligned_img\Preetha\rightFace16.png 234 67 380 247
+./aligned_img\Preetha\rightFace17.png 229 57 377 249
+./aligned_img\Preetha\rightFace18.png 231 63 376 248
+./aligned_img\Preetha\rightFace19.png 241 63 383 256
+./aligned_img\Preetha\rightFace2.png 209 58 359 243
+./aligned_img\Preetha\rightFace20.png 232 64 381 249
+./aligned_img\Preetha\rightFace21.png 231 63 381 251
+./aligned_img\Preetha\rightFace22.png 229 64 378 251
+./aligned_img\Preetha\rightFace23.png 232 63 380 248
+./aligned_img\Preetha\rightFace24.png 227 63 379 253
+./aligned_img\Preetha\rightFace25.png 226 63 377 252
+./aligned_img\Preetha\rightFace3.png 232 54 369 239
+./aligned_img\Preetha\rightFace4.png 224 53 370 240
+./aligned_img\Preetha\rightFace5.png 227 57 371 243
+./aligned_img\Preetha\rightFace6.png 229 55 372 237
+./aligned_img\Preetha\rightFace7.png 233 50 375 235
+./aligned_img\Preetha\rightFace8.png 235 47 381 248
+./aligned_img\Preetha\rightFace9.png 230 60 378 253
+./aligned_img\Preetha\upFace1.png 150 144 317 337
+./aligned_img\Preetha\upFace10.png 148 144 319 343
+./aligned_img\Preetha\upFace11.png 147 143 315 344
+./aligned_img\Preetha\upFace12.png 470 191 495 219
+./aligned_img\Preetha\upFace13.png 470 191 495 219
+./aligned_img\Preetha\upFace14.png 156 172 317 348
+./aligned_img\Preetha\upFace15.png 154 169 315 345
+./aligned_img\Preetha\upFace16.png 152 168 313 347
+./aligned_img\Preetha\upFace17.png 149 170 311 350
+./aligned_img\Preetha\upFace18.png 151 171 315 349
+./aligned_img\Preetha\upFace19.png 155 174 311 343
+./aligned_img\Preetha\upFace2.png 147 142 320 344
+./aligned_img\Preetha\upFace20.png 461 189 485 217
+./aligned_img\Preetha\upFace21.png 459 187 483 214
+./aligned_img\Preetha\upFace22.png 462 190 484 216
+./aligned_img\Preetha\upFace23.png 461 190 484 216
+./aligned_img\Preetha\upFace24.png 454 187 479 218
+./aligned_img\Preetha\upFace25.png 150 169 312 353
+./aligned_img\Preetha\upFace3.png 147 146 317 346
+./aligned_img\Preetha\upFace4.png 472 193 495 219
+./aligned_img\Preetha\upFace5.png 147 141 318 344
+./aligned_img\Preetha\upFace6.png 145 139 321 348
+./aligned_img\Preetha\upFace7.png 146 141 321 346
+./aligned_img\Preetha\upFace8.png 149 137 319 343
+./aligned_img\Preetha\upFace9.png 148 142 319 342
+./aligned_img\Thalir\downFace1.png 206 181 361 366
+./aligned_img\Thalir\downFace10.png
+./aligned_img\Thalir\downFace11.png
+./aligned_img\Thalir\downFace12.png
+./aligned_img\Thalir\downFace13.png
+./aligned_img\Thalir\downFace14.png
+./aligned_img\Thalir\downFace15.png
+./aligned_img\Thalir\downFace16.png 212 181 349 355
+./aligned_img\Thalir\downFace17.png 221 178 344 334
+./aligned_img\Thalir\downFace18.png 197 179 343 352
+./aligned_img\Thalir\downFace19.png 199 180 342 346
+./aligned_img\Thalir\downFace2.png 196 181 354 366
+./aligned_img\Thalir\downFace20.png 208 190 342 350
+./aligned_img\Thalir\downFace21.png 204 186 342 350
+./aligned_img\Thalir\downFace22.png 194 176 342 347
+./aligned_img\Thalir\downFace23.png 195 175 342 349
+./aligned_img\Thalir\downFace24.png 201 179 341 344
+./aligned_img\Thalir\downFace25.png 214 189 349 364
+./aligned_img\Thalir\downFace3.png
+./aligned_img\Thalir\downFace4.png 215 193 343 349
+./aligned_img\Thalir\downFace5.png 199 180 338 345
+./aligned_img\Thalir\downFace6.png 193 183 340 355
+./aligned_img\Thalir\downFace7.png 198 175 340 346
+./aligned_img\Thalir\downFace8.png 201 179 339 343
+./aligned_img\Thalir\downFace9.png 196 178 340 348
+./aligned_img\Thalir\forwardFace1.png 220 210 381 412
+./aligned_img\Thalir\forwardFace10.png 169 203 343 425
+./aligned_img\Thalir\forwardFace11.png 196 218 351 411
+./aligned_img\Thalir\forwardFace12.png
+./aligned_img\Thalir\forwardFace13.png
+./aligned_img\Thalir\forwardFace14.png 215 222 358 404
+./aligned_img\Thalir\forwardFace15.png 217 223 358 404
+./aligned_img\Thalir\forwardFace16.png 167 194 340 414
+./aligned_img\Thalir\forwardFace17.png 166 195 338 412
+./aligned_img\Thalir\forwardFace18.png 169 194 340 412
+./aligned_img\Thalir\forwardFace19.png 166 192 341 417
+./aligned_img\Thalir\forwardFace2.png 211 206 383 420
+./aligned_img\Thalir\forwardFace20.png 174 195 341 413
+./aligned_img\Thalir\forwardFace21.png 168 193 339 413
+./aligned_img\Thalir\forwardFace22.png 170 195 341 411
+./aligned_img\Thalir\forwardFace23.png 165 192 339 415
+./aligned_img\Thalir\forwardFace24.png 167 192 339 415
+./aligned_img\Thalir\forwardFace25.png 171 195 340 414
+./aligned_img\Thalir\forwardFace3.png 203 208 378 425
+./aligned_img\Thalir\forwardFace4.png 196 209 373 427
+./aligned_img\Thalir\forwardFace5.png 191 212 364 429
+./aligned_img\Thalir\forwardFace6.png 189 212 361 424
+./aligned_img\Thalir\forwardFace7.png 197 221 361 425
+./aligned_img\Thalir\forwardFace8.png 177 213 353 436
+./aligned_img\Thalir\forwardFace9.png 172 210 341 424
+./aligned_img\Thalir\leftFace1.png 157 212 318 422
+./aligned_img\Thalir\leftFace10.png 132 238 293 447
+./aligned_img\Thalir\leftFace11.png
+./aligned_img\Thalir\leftFace12.png
+./aligned_img\Thalir\leftFace13.png
+./aligned_img\Thalir\leftFace14.png
+./aligned_img\Thalir\leftFace15.png
+./aligned_img\Thalir\leftFace16.png
+./aligned_img\Thalir\leftFace17.png
+./aligned_img\Thalir\leftFace18.png
+./aligned_img\Thalir\leftFace19.png
+./aligned_img\Thalir\leftFace2.png 150 192 312 442
+./aligned_img\Thalir\leftFace20.png
+./aligned_img\Thalir\leftFace21.png
+./aligned_img\Thalir\leftFace22.png
+./aligned_img\Thalir\leftFace23.png
+./aligned_img\Thalir\leftFace24.png
+./aligned_img\Thalir\leftFace25.png
+./aligned_img\Thalir\leftFace3.png
+./aligned_img\Thalir\leftFace4.png
+./aligned_img\Thalir\leftFace5.png
+./aligned_img\Thalir\leftFace6.png
+./aligned_img\Thalir\leftFace7.png
+./aligned_img\Thalir\leftFace8.png
+./aligned_img\Thalir\leftFace9.png
+./aligned_img\Thalir\rightFace1.png 217 185 387 413
+./aligned_img\Thalir\rightFace10.png 272 198 430 416
+./aligned_img\Thalir\rightFace11.png 132 424 156 460
+./aligned_img\Thalir\rightFace12.png
+./aligned_img\Thalir\rightFace13.png 270 192 429 420
+./aligned_img\Thalir\rightFace14.png 271 192 430 421
+./aligned_img\Thalir\rightFace15.png 267 188 430 428
+./aligned_img\Thalir\rightFace16.png 267 189 428 423
+./aligned_img\Thalir\rightFace17.png 267 188 428 420
+./aligned_img\Thalir\rightFace18.png 268 188 428 418
+./aligned_img\Thalir\rightFace19.png 266 193 427 419
+./aligned_img\Thalir\rightFace2.png 239 183 412 423
+./aligned_img\Thalir\rightFace20.png 266 190 427 416
+./aligned_img\Thalir\rightFace21.png 273 190 425 407
+./aligned_img\Thalir\rightFace22.png
+./aligned_img\Thalir\rightFace23.png 263 188 406 396
+./aligned_img\Thalir\rightFace24.png 259 187 420 405
+./aligned_img\Thalir\rightFace25.png 252 180 415 424
+./aligned_img\Thalir\rightFace3.png 256 185 412 404
+./aligned_img\Thalir\rightFace4.png 272 203 419 413
+./aligned_img\Thalir\rightFace5.png 271 193 428 428
+./aligned_img\Thalir\rightFace6.png 286 207 437 417
+./aligned_img\Thalir\rightFace7.png 267 188 430 436
+./aligned_img\Thalir\rightFace8.png 274 199 433 417
+./aligned_img\Thalir\rightFace9.png 272 199 430 415
+./aligned_img\Thalir\upFace1.png
+./aligned_img\Thalir\upFace10.png 180 278 341 477
+./aligned_img\Thalir\upFace11.png 168 275 333 476
+./aligned_img\Thalir\upFace12.png
+./aligned_img\Thalir\upFace13.png
+./aligned_img\Thalir\upFace14.png 182 288 340 478
+./aligned_img\Thalir\upFace15.png
+./aligned_img\Thalir\upFace16.png 166 278 327 478
+./aligned_img\Thalir\upFace17.png 173 281 335 477
+./aligned_img\Thalir\upFace18.png 165 276 324 470
+./aligned_img\Thalir\upFace19.png 163 278 324 474
+./aligned_img\Thalir\upFace2.png 175 275 343 477
+./aligned_img\Thalir\upFace20.png 163 278 323 475
+./aligned_img\Thalir\upFace21.png 165 275 326 477
+./aligned_img\Thalir\upFace22.png 164 276 326 477
+./aligned_img\Thalir\upFace23.png 165 274 327 474
+./aligned_img\Thalir\upFace24.png 165 274 326 474
+./aligned_img\Thalir\upFace25.png 166 272 328 475
+./aligned_img\Thalir\upFace3.png
+./aligned_img\Thalir\upFace4.png
+./aligned_img\Thalir\upFace5.png 180 279 346 479
+./aligned_img\Thalir\upFace6.png
+./aligned_img\Thalir\upFace7.png
+./aligned_img\Thalir\upFace8.png
+./aligned_img\Thalir\upFace9.png 177 307 296 452

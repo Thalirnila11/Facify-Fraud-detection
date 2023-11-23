@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Email Form</title>
+  <style>
+
+    *{
+        font-family:'Poppins', sans-serif;
+ ;
+    }
+    body {
+      margin: 0;
+                padding: 0;
+                background: linear-gradient(90deg, #051922  80%, #F28123 20%);
+                /* Replace the above gradient colors with your desired colors */
+                font-family: Arial, sans-serif;
+
+    }
+
+    .container {
+                      display: flex;
+                      justify-content: center;
+                      align-items: center;
+                      flex-direction: column;
+                      height: 100vh;
+                      background: linear-gradient(90edge,#F28123,20%);
+                  }
+
+                  .form-container {
+      padding: 20px;
+      width: 300px;
+      background: #fff;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+
+    h1 {
+      text-align: center;
+    }
+
+    form {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input[type="email"] {
+      width: 100%;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+
+    .hidden{
+      display:none
+    }
+
+    button[type="submit"] {
+      padding: 5px 10px;
+      padding: 12px 24px;
+            font-size: 18px;
+            background-color:  #F28123;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 80px;
+            
+
+    }
+
+    .form-container button:hover {
+            background-color: #051922;
+            color:#F28123;
+        }
+
+      #verify{
+        padding: 5px 10px;
+      padding: 12px 24px;
+            font-size: 18px;
+            background-color:  #F28123;
+            color: white;
+            border: none;
+            cursor: pointer;
+            margin-top: 20px;
+            margin-left: 80px;
+
+      }
+
+      #verify:hover{
+        background-color: #051922;
+            color:#F28123;
+
+      }
+
+      .image
+{
+  position: absolute;
+  top:0;
+  left:0;
+  width:200px;
+  height:auto;
+}
+
+  </style>
+</head>
+<body>
+  <!--<img src="asset/logo.png" class="image">-->
+  <div class="container">
+    <div class="form-container">
+  
+  <h1>Email Form</h1>
+  
+  <span>Email:</span>
+
+    <input type="email" id="emailInput" placeholder="Enter your username" required>
+    
+    
+    <button type="submit" id="sendmail">Send OTP</button>
+
+    <div id="otpContainer" class="hidden">
+     <span> OTP:</span>
+      <input type="text" id="otpInput">
+      <br><br>
+      <button  id="verify" >Verify OTP</button>
+
+    </div>
+
+    </div>
+    <br><br>
+    
+ 
+  
+
+  <script src="otp.js"></script>
+  <script src="otpGenerator.js"></script>
+</body>
+</html>

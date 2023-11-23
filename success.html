@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OTP Verification Successful</title>
+  <style>
+    /* Center the content vertically and horizontally */
+    html, body {
+      height: 100%;
+     
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+            padding: 0;
+            background: linear-gradient(90deg, #051922  80%, #F28123 20%);
+            /* Replace the above gradient colors with your desired colors */
+            font-family: Arial, sans-serif;
+    }
+
+    /* Style the container */
+    .container {
+        position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      padding: 20px;
+      background-color: #f2f2f2;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Style the heading */
+    .container h1 {
+      color: #333333;
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    /* Style the success message */
+    .container p {
+      color: #F28123;
+      font-size: 18px;
+    }
+
+    /* Style the button container */
+    .button-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+
+    /* Style the buttons */
+    .button-container button {
+      margin: 0 10px;
+      padding: 10px 20px;
+      background-color: #F28123;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    /* Style the buttons on hover */
+    .button-container button:hover {
+        background-color: #051922;
+            color:#F28123;
+    }
+    .image
+{
+  position: absolute;
+  top:0;
+  left:0;
+  width:200px;
+  height:auto;
+}
+  </style>
+</head>
+<body>
+    <!--<img src="asset/logo.png" class="image">-->
+  <div class="container">
+    <h1>OTP Verification Successful</h1>
+    <p>Congratulations! Your OTP has been verified.</p>
+
+    <div class="button-container">
+      <button onclick="navigateToHomePage()">OK</button>
+      <button onclick="navigateToNextPage()">Verify Face</button>
+    </div>
+  </div>
+
+  <script>
+    function navigateToHomePage() {
+      window.location.href = 'home.html';
+    }
+
+    function navigateToNextPage() {
+      window.location.href = 'link.html';
+    }
+  </script>
+</body>
+</html>
